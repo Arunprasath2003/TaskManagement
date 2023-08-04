@@ -160,9 +160,6 @@ Inside backend folder:
 
 ## Useful Links
 
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
 
 - Official Docs
 
